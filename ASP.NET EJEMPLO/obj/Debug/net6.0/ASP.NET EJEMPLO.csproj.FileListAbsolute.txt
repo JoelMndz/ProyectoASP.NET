@@ -1,0 +1,31 @@
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\appsettings.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\ASP.NET EJEMPLO.staticwebassets.runtime.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\ASP.NET EJEMPLO.exe
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\ASP.NET EJEMPLO.deps.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\ASP.NET EJEMPLO.runtimeconfig.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\ASP.NET EJEMPLO.dll
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\bin\Debug\net6.0\ASP.NET EJEMPLO.pdb
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.csproj.AssemblyReference.cache
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.AssemblyInfoInputs.cache
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.AssemblyInfo.cs
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.RazorAssemblyInfo.cache
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.RazorAssemblyInfo.cs
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET EJEMPLO.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET EJEMPLO.props
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET EJEMPLO.props
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET EJEMPLO.props
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\scopedcss\bundle\ASP.NET EJEMPLO.styles.css
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET EJEMPLO.bundle.scp.css
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.dll
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\refint\ASP.NET EJEMPLO.dll
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.pdb
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ASP.NET EJEMPLO.genruntimeconfig.cache
+C:\Users\luisj\Documents\C#2022\ASP.NET EJEMPLO\ASP.NET EJEMPLO\obj\Debug\net6.0\ref\ASP.NET EJEMPLO.dll
